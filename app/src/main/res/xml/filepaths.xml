@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<paths>-->
+    <!--<files-path path="this_app_dir/" name="." />-->
+<!--</paths>-->
+
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="pdf" path="." />
+    <cache-path name="ppt" path="." />
+    <cache-path name="txt" path="." />
+    <cache-path name="docx" path="." />
+    <cache-path name="image" path="." />
+    <cache-path name="video" path="." />
+    <cache-path name="audio" path="." />
+    <cache-path name="other" path="." />
+    <cache-path name="gif" path="." />
+    <cache-path name="user_f_1" path="." />
+    <cache-path name="user_f_2" path="." />
+    <cache-path name="user_f_3" path="." />
+    <cache-path name="user_f_4" path="." />
+    <cache-path name="user_f_5" path="." />
+</paths>
